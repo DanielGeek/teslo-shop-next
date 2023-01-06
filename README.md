@@ -1,4 +1,8 @@
-# Next.js Teslo Shop App
+# Next.js Teslo Shop App using Next.js | TypeScript and MondogDB
+
+# look the app deployed on heroku in this link
+`https://tesloshop-dangel.herokuapp.com`
+
 
 To run local, you need the database
 ```
